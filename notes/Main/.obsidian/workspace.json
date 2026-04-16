@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "0fc33a2a161bcbae",
+    "type": "split",
+    "children": [
+      {
+        "id": "037f4319eeca9d9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "804bf8f60824bded",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53cd2b078f593b4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fdf9faf0909e9ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dcc643527cb781a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "157683875d659720",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#systems-engineering",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "171d8dfa2ac1f181",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "924fc8d0dd0af37d",
+    "type": "split",
+    "children": [
+      {
+        "id": "eeb25874889b6a72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d7faeeabe5a52ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c5eecbf424ae6c58",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "55f24e25db1d368b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a9e728ac39c85abe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bfc0d54e2bbbbe34",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "804bf8f60824bded",
+  "lastOpenFiles": [
+    "javascript/02 Call stack.md",
+    "zttatchments/Pasted image 20260402095408.png",
+    "javascript/01 Global Execution context.md",
+    "javascript/Hoisting.md",
+    "Untitled 1.canvas",
+    "Email/The playbook Tips and tricks.md",
+    "Networking/Analog modulation.md",
+    "Networking/CSE3006 Midterm Index (Modules 1 to 2.5).md",
+    "zttatchments/Pasted image 20260402092652.png",
+    "zttatchments/Pasted image 20260402092648.png",
+    "zttatchments/Pasted image 20260402092022.png",
+    "zttatchments/Pasted image 20260402091828.png",
+    "zttatchments/Pasted image 20260402091231.png",
+    "javascript",
+    "Networking/Amplitude Modulation.md",
+    "Devops/K8s/ConfigMap.md",
+    "Email/Loom Videos.md",
+    "Networking/Untitled 1.md",
+    "Email",
+    "Networking/Computer Networks Master Index.md",
+    "Networking/IP address.md",
+    "Backend/01_Backend_Course/04 Networking.canvas",
+    "Networking/to do.md",
+    "NPTEL_ML/understanding.md",
+    "NPTEL_ML/Candidate elimination.md",
+    "NPTEL_ML/00_Syllabus_MOC.md",
+    "NPTEL_ML/Find S algo.md",
+    "NPTEL_ML/Issues in ML.md",
+    "NPTEL_ML/01_Introduction/intro.md",
+    "reload/Reload.md",
+    "reload",
+    "Esim/Untitled.md",
+    "Backend/WebRTC/WebRTC.md",
+    "Esim",
+    "Backend/WebRTC/SFU.md",
+    "Backend/WebRTC/Creating a webRTC connection.md",
+    "zttatchments/Pasted image 20260219195151.png",
+    "zttatchments/Pasted image 20260219185545.png",
+    "zttatchments/Pasted image 20260219174543.png",
+    "Backend/WebRTC/Ice candidates.md",
+    "zttatchments/Recording 20260219171544.m4a",
+    "zttatchments/Pasted image 20260219130848.png",
+    "Backend/WebRTC",
+    "NPTEL_ML/Untitled.canvas",
+    "Networking",
+    "Devops/K8s",
+    "Devops",
+    "Untitled.canvas",
+    "NPTEL_ML/05_Labs",
+    "Backend/01_Backend_Course/03DNS.canvas"
+  ]
+}

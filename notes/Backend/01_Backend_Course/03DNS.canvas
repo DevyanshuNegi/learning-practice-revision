@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"bf6d7533628562b2","type":"text","text":"DNS \n- caching at every stage","x":-200,"y":-420,"width":250,"height":100},
+		{"id":"407da35c0ab6dfff","type":"text","text":"Computer","x":-380,"y":-20,"width":250,"height":60},
+		{"id":"9a24472380b00355","type":"text","text":"[[DNS Resolver Reccurser]]","x":-75,"y":-20,"width":250,"height":60},
+		{"id":"791f0a777e52b2c5","type":"text","text":"Root server","x":244,"y":-127,"width":250,"height":60},
+		{"id":"ddf637f5d9d240a1","type":"text","text":"TLD Server\nreturn auth server","x":270,"y":-20,"width":250,"height":60},
+		{"id":"f2ee2cca0cd85c5b","type":"text","text":"Authoritative Server\n( negi.com => 40.40.40.40)","x":236,"y":96,"width":250,"height":60},
+		{"id":"71e0833b82d00838","type":"text","text":"only 13 world wide","x":132,"y":-183,"width":250,"height":60},
+		{"id":"216fd86e0b6c77fc","type":"text","text":"Website server","x":-376,"y":170,"width":250,"height":60},
+		{"id":"e8460f31bd52efed","type":"text","text":"4040404040","x":-340,"y":230,"width":250,"height":60},
+		{"id":"08288d74954da035","type":"file","file":"Z_Attatchments/Pasted image 20260117102002.png","x":-327,"y":360,"width":755,"height":440},
+		{"id":"c548fed930123a25","type":"text","text":"nameservers are given by registrar ( maybe 4 or 5 )","x":213,"y":151,"width":250,"height":60},
+		{"id":"f60a8280ad2a314a","x":-305,"y":854,"width":250,"height":60,"type":"text","text":"[[subnet mask]]"}
+	],
+	"edges":[
+		{"id":"be77cee20e4888ab","fromNode":"407da35c0ab6dfff","fromSide":"right","toNode":"9a24472380b00355","toSide":"left"},
+		{"id":"a2ea6004384acc1d","fromNode":"9a24472380b00355","fromSide":"right","toNode":"791f0a777e52b2c5","toSide":"left"},
+		{"id":"f94a877ae827564e","fromNode":"791f0a777e52b2c5","fromSide":"left","toNode":"9a24472380b00355","toSide":"right"},
+		{"id":"d9316c1ba5b305a0","fromNode":"9a24472380b00355","fromSide":"right","toNode":"ddf637f5d9d240a1","toSide":"left"},
+		{"id":"58673dc5ee39460a","fromNode":"ddf637f5d9d240a1","fromSide":"left","toNode":"9a24472380b00355","toSide":"right"},
+		{"id":"d79b1f341c4db5a2","fromNode":"9a24472380b00355","fromSide":"right","toNode":"f2ee2cca0cd85c5b","toSide":"left"},
+		{"id":"9aa2dd5a25e2a5fb","fromNode":"f2ee2cca0cd85c5b","fromSide":"left","toNode":"9a24472380b00355","toSide":"right"},
+		{"id":"8a37c04b95414129","fromNode":"407da35c0ab6dfff","fromSide":"bottom","toNode":"216fd86e0b6c77fc","toSide":"top"},
+		{"id":"21b6eccf7e0072d8","fromNode":"407da35c0ab6dfff","fromSide":"right","toNode":"9a24472380b00355","toSide":"left"}
+	]
+}

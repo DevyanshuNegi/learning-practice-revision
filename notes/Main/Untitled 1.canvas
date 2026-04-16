@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"81079fc3a623bbdd","x":-440,"y":-120,"width":250,"height":60,"type":"text","text":"Browser 1"},
+		{"id":"9a5951efc5366c86","x":-440,"y":0,"width":250,"height":79,"type":"text","text":"1. creates a RTCPeerConneciton()\n2. creates offer\n3. set local description\n4. "}
+	],
+	"edges":[]
+}

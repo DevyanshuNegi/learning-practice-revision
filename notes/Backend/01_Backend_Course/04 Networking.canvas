@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"83844dc9c305ad8b","type":"text","text":"4 Transport\n\tService to service\n\tusing port no\t","x":-30,"y":-7,"width":250,"height":84},
+		{"id":"57e6b1f377e070d7","type":"text","text":"5 Session","x":-31,"y":-92,"width":250,"height":63},
+		{"id":"e3aa2f32feee5abb","type":"text","text":"6 Presentation","x":-31,"y":-176,"width":250,"height":63},
+		{"id":"4b1c3a0f9d645184","type":"text","text":"7 Application","x":-31,"y":-260,"width":250,"height":63},
+		{"id":"432d6312e7591ae4","type":"text","text":"3 Network\n\tEnd to End through IP","x":-30,"y":98,"width":250,"height":63},
+		{"id":"95aae12d4194e4d8","type":"text","text":"2 Data link\nHop to Hop","x":-30,"y":182,"width":250,"height":63},
+		{"id":"936bc2773009682b","type":"text","text":"1.Physical","x":-31,"y":277,"width":250,"height":63},
+		{"id":"c02596ece826f34a","type":"text","text":"Not a Hop in local netowrk","x":-570,"y":161,"width":250,"height":60},
+		{"id":"720e743fad5e0d68","type":"text","text":"Router\n192.168.0.1","x":-570,"y":221,"width":250,"height":60},
+		{"id":"323021b5a4cc5245","type":"text","text":"192.168.0.2","x":-800,"y":383,"width":200,"height":64},
+		{"id":"0e5da4d986037bec","type":"text","text":"192.168.0.7","x":-300,"y":383,"width":172,"height":66},
+		{"id":"b9db2406a72651cd","type":"text","text":"192.168.0.5","x":-516,"y":387,"width":142,"height":58},
+		{"id":"855a9a33025124d2","x":-546,"y":677,"width":250,"height":60,"type":"text","text":"[[ARP Broadcasting]]"},
+		{"id":"1de3164f52b58701","x":-490,"y":757,"width":330,"height":60,"type":"text","text":"How is it done safely\nhow it finds destination MAC"},
+		{"id":"0e2f81e5409961eb","x":63,"y":639,"width":250,"height":60,"type":"text","text":"[[packet switching algo]]\nhow it define the path"}
+	],
+	"edges":[
+		{"id":"7bfacf9e55a99707","fromNode":"323021b5a4cc5245","fromSide":"top","toNode":"720e743fad5e0d68","toSide":"left"},
+		{"id":"ece0025e77724fd9","fromNode":"b9db2406a72651cd","fromSide":"top","toNode":"720e743fad5e0d68","toSide":"bottom"},
+		{"id":"05df5ba9d9d995a3","fromNode":"0e5da4d986037bec","fromSide":"top","toNode":"720e743fad5e0d68","toSide":"right"}
+	]
+}

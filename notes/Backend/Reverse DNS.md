@@ -1,0 +1,1 @@
+If you connect to Gmail, you look like a random server. Gmail trusts servers that have a proper ID card. This is called **Reverse DNS (rDNS)** or **PTR Record**.
