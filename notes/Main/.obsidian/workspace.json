@@ -4,20 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "037f4319eeca9d9d",
+        "id": "046a24636aafaa0a",
         "type": "tabs",
         "children": [
           {
-            "id": "804bf8f60824bded",
+            "id": "d19379980c3d8c52",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Interview/JS/00 JavaScript.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "00 JavaScript"
+            }
+          },
+          {
+            "id": "ecea8a04d3c17a74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/JS/00 JavaScript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 JavaScript"
+            }
+          },
+          {
+            "id": "e7d7ba226b601836",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/JS/ES6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ES6"
+            }
+          },
+          {
+            "id": "196155375342ef3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/JS/ES6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ES6"
+            }
+          },
+          {
+            "id": "6dfe3e4803a8d091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/JS/00 JavaScript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 JavaScript"
+            }
+          },
+          {
+            "id": "5bbbcbf11ecf1feb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview/JS/Global Execution context.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Global Execution context"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -49,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#systems-engineering",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,57 +252,58 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "804bf8f60824bded",
+  "active": "e7d7ba226b601836",
   "lastOpenFiles": [
-    "javascript/02 Call stack.md",
-    "zttatchments/Pasted image 20260402095408.png",
-    "javascript/01 Global Execution context.md",
-    "javascript/Hoisting.md",
-    "Untitled 1.canvas",
-    "Email/The playbook Tips and tricks.md",
-    "Networking/Analog modulation.md",
+    "Interview/JS/00 JavaScript.md",
+    "Interview/JS/ES6.md",
+    "Interview/JS/Event Loop.md",
+    "Interview/JS/Global Execution context.md",
+    "Interview/JS/Call stack and Queues.md",
+    "Interview/JS/Hoisting.md",
+    "Backend/01_Backend_Course/09 Cookie.md",
+    "Backend/01_Backend_Course/08 HTTP.md",
+    "Interview/JS",
+    "Interview",
+    "Backend/Welcome.md",
+    "Backend/Reverse DNS.md",
+    "Backend/Email/Coding.md",
+    "Backend/Email/Deployment.md",
+    "Backend/Email/Must Know About Email.md",
+    "Backend/Email/Records.md",
+    "Backend/Email/Setting VPS.md",
+    "Backend/Sales/Outreach.md",
+    "Networking/IP address.md",
     "Networking/CSE3006 Midterm Index (Modules 1 to 2.5).md",
+    "Networking/Computer Networks Master Index.md",
+    "Networking/Analog modulation.md",
+    "Networking/Amplitude Modulation.md",
+    "Email/The playbook Tips and tricks.md",
+    "Email/Loom Videos.md",
+    "GenAI/Coder_Gyan/04 using SDK.md",
+    "zttatchments/Pasted image 20260402095408.png",
+    "Untitled 1.canvas",
     "zttatchments/Pasted image 20260402092652.png",
     "zttatchments/Pasted image 20260402092648.png",
     "zttatchments/Pasted image 20260402092022.png",
     "zttatchments/Pasted image 20260402091828.png",
     "zttatchments/Pasted image 20260402091231.png",
     "javascript",
-    "Networking/Amplitude Modulation.md",
     "Devops/K8s/ConfigMap.md",
-    "Email/Loom Videos.md",
     "Networking/Untitled 1.md",
     "Email",
-    "Networking/Computer Networks Master Index.md",
-    "Networking/IP address.md",
     "Backend/01_Backend_Course/04 Networking.canvas",
-    "Networking/to do.md",
-    "NPTEL_ML/understanding.md",
-    "NPTEL_ML/Candidate elimination.md",
-    "NPTEL_ML/00_Syllabus_MOC.md",
-    "NPTEL_ML/Find S algo.md",
-    "NPTEL_ML/Issues in ML.md",
-    "NPTEL_ML/01_Introduction/intro.md",
-    "reload/Reload.md",
     "reload",
-    "Esim/Untitled.md",
-    "Backend/WebRTC/WebRTC.md",
     "Esim",
-    "Backend/WebRTC/SFU.md",
-    "Backend/WebRTC/Creating a webRTC connection.md",
     "zttatchments/Pasted image 20260219195151.png",
     "zttatchments/Pasted image 20260219185545.png",
     "zttatchments/Pasted image 20260219174543.png",
-    "Backend/WebRTC/Ice candidates.md",
     "zttatchments/Recording 20260219171544.m4a",
     "zttatchments/Pasted image 20260219130848.png",
     "Backend/WebRTC",
     "NPTEL_ML/Untitled.canvas",
     "Networking",
     "Devops/K8s",
-    "Devops",
     "Untitled.canvas",
-    "NPTEL_ML/05_Labs",
     "Backend/01_Backend_Course/03DNS.canvas"
   ]
 }
