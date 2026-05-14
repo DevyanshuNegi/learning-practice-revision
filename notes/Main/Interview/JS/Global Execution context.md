@@ -1,6 +1,7 @@
 
+default env created by js engine when a script first starts
 
-running js code we have 2 phases
+2 phases
 
 - Memory phase
 	- declaration
@@ -10,7 +11,7 @@ running js code we have 2 phases
 
 
 
-
+// not reuqired
 ### Core Components
 
 When the GEC is created, it automatically sets up three fundamental things: 
@@ -23,9 +24,11 @@ When the GEC is created, it automatically sets up three fundamental things:
 	- Since GEC is the outermost level, its reference to an outer environment is `null`. 
 
 
+
+
 ### Two Phases of Execution
 
-The GEC, like all execution contexts, runs in two distinct stages:
+runs in two distinct stages:
 1. **Creation Phase (Memory Phase):**
     - The engine scans the code and allocates memory for variables and functions.
     - **Hoisting occurs here:**
@@ -39,7 +42,7 @@ Lifecycle & Call Stack
 
 - **Initialization:** The GEC is the first item pushed onto the [Call Stack]
 - **Persistence:** It remains at the bottom of the stack throughout the program's life.
-- **Termination:** The GEC is only popped off the stack and destroyed once all code has been executed and the program finishes (e.g., when the browser tab is closed).
+- **Termination:** The GEC is popped off the stack and destroyed once all code has been executed and the program finishes (e.g., when the browser tab is closed).
 
 
 This all this is deleted
